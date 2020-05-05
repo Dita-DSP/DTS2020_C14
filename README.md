@@ -1,2 +1,2 @@
-# DTS2020_C14
-Project Team using HTML &amp; CSS
+# DTS2020_C14.github.io
+Project Team using HTML & CSS
